@@ -1,15 +1,15 @@
 # Домашнее задание к работе 2
 ## Условие задачи
-Известна стоимость 1 кг конфет, печенья и яблок. Найти стоимость всей покупки, если купили X кг конфет, Y кг печенья и Z кг яблок.
+Известна стоимость `1 кг` конфет, печенья и яблок. Найти стоимость всей покупки, если купили X кг конфет, Y кг печенья и Z кг яблок.
 ## 1. Алгоритм и блок-схема
 ### Алгоритм
 1. Начало.
-2. Ввод данных: konfeta, pechenye,yabloki, x, y, z
-3. Расчет стоимости каждой покупки: stoimost_konfet = konfeta * x,
-stoimost_pechenya = pechenye * y,
-stoimost_yablok = yabloki * z,
-4. Расчет общей стоимости: summa = stoimost_konfet +
-stoimost_pechenya + stoimost_yablok
+2. Ввод данных: `konfeta`, `pechenye`, `yabloki` , `x`, `y`, `z`
+3. Расчет стоимости каждой покупки: `stoimost_konfet = konfeta * x,
+stoimost_pechenya = pechenye * y`,
+`stoimost_yablok = yabloki * z`,
+4. Расчет общей стоимости: `summa = stoimost_konfet +
+stoimost_pechenya + stoimost_yablok`
 5. Вывод вычислительных данных
 6. Конец 
 ### Блок-схема
