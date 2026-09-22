@@ -23,6 +23,7 @@ stoimost_pechenya + stoimost_yablok
 Блок-схема алгоритма представлена в проекте.
 
 ## 2. Реализация программы
+
 #include <stdio.h>
 #include <locale.h>
 
